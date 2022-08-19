@@ -1,6 +1,3 @@
-
-# https://pythonprogramming.net/own-environment-q-learning-reinforcement-learning-python-tutorial/
-
 import numpy as np
 from PIL import Image
 import cv2 
