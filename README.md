@@ -10,6 +10,6 @@
 - Copy the code.
 - Install dependencies.
 - Run it.
-- After running for several thousand episodes, you will get a good ennough model.
+- After running for several thousand episodes, you will get a good enough model.
 - Import the "q-table.pickle" file for the current iteration.
 - Run again to see the results of the trained model.
